@@ -20,4 +20,8 @@ Education: BE Computer Engineering
 College: K. K. Wagh Institute of Engineering Education and Research
 List of Hobbies: Playing Chess
 
+Name: Ashutosh Srivastava
+Education: BE Computer Engineering
+College: KK wagh Institute, Nashik
+List of Hobbies: Guitar, Volleyball
 
