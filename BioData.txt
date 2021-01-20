@@ -15,3 +15,9 @@ Education: BE Computer Engineering
 College: P.E.S's Modern College of Engineering
 List of Hobbies: E-Sports, Puzzles
 
+Name: Aryan Jain
+Education: BE Information Technology
+College: D. Y. Patil, College of Engineering, Akurdi, Pune.
+List of Hobbies: Watching movies and series.
+
+
