@@ -15,3 +15,8 @@ Education: BE Computer Engineering
 College: P.E.S's Modern College of Engineering
 List of Hobbies: E-Sports, Puzzles
 
+Name: Ashutosh Srivastava
+Education: BE Computer Engineering
+College: KK wagh Institute, Nashik
+List of Hobbies: Guitar, Volleyball
+
