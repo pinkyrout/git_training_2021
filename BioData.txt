@@ -9,3 +9,9 @@ Name :Rutuja Dhokchaule
 Education: BE Computer Engineering
 College: PES Modern College of Engineering
 List of Hobbies: Drawing,reading,painting
+
+Name: Atharva Borekar
+Education: BE Computer Engineering
+College: P.E.S's Modern College of Engineering
+List of Hobbies: E-Sports, Puzzles
+
