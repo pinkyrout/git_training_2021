@@ -15,6 +15,11 @@ Education: BE Computer Engineering
 College: P.E.S's Modern College of Engineering
 List of Hobbies: E-Sports, Puzzles
 
+Name: Sumit Dhandale
+Education: BE Computer Engineering
+College: K. K. Wagh Institute of Engineering Education and Research
+List of Hobbies: Playing Chess
+
 Name: Ashutosh Srivastava
 Education: BE Computer Engineering
 College: KK wagh Institute, Nashik
