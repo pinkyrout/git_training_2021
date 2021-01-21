@@ -15,7 +15,27 @@ Education: BE Computer Engineering
 College: P.E.S's Modern College of Engineering
 List of Hobbies: E-Sports, Puzzles
 
+
 Name : Atira Bagwan
 Education : BE Computer Engineering
 College: K. K. Wagh Institute of Engineering Education and Research
-List of Hobbies : Reading, watching movies, mobile games
+List of Hobbies : Reading, mobile games
+
+Name: Ashutosh Srivastava
+Education: BE Computer Engineering
+College: KK wagh Institute, Nashik
+List of Hobbies: Guitar, Volleyball
+
+Name: Vaibhav Chalse
+Education: BE Computer Engineering
+College: K. K. Wagh Institute Of Engineering Education And Research, Nashik
+List of Hobbies: Coding
+
+Name: Sumit Dhandale
+Education: BE Computer Engineering
+College: K. K. Wagh Institute of Engineering Education and Research
+List of Hobbies: Playing Chess
+
+
+
+
